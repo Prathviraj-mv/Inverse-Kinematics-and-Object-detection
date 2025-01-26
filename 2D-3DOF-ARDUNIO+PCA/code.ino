@@ -9,7 +9,7 @@ Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 #define ELBOW_SERVO 1
 #define WRIST_SERVO 2
 
-// Link lengths
+// Link lengths .its in bloddy "cm"
 const float L1 = 35.0;  // Length of the first link
 const float L2 = 22.0;  // Length of the second link
 const float L3 = 20.0;  // Length of the end effector
