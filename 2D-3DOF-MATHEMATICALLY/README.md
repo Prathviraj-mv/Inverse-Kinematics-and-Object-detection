@@ -13,4 +13,4 @@ Wrist angle (theta3)                  | theta3 = desired_orientation - (theta1 +
 
 
 
-![image](https://github.com/user-attachments/assets/b12a8b38-3763-4943-a9a9-28b3528eddeb)
+![Screenshot 2025-01-26 121128](https://github.com/user-attachments/assets/50126028-34d5-4f9a-a2b8-26dcccad40e9)
